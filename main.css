@@ -1,0 +1,27 @@
+main.css
+
+
+#song1{
+    color: #356de4;
+}
+
+#song1:active{
+	color: #4b7de7;
+}
+
+#song2{
+	color: #f4a742;
+}
+
+#song2:active{
+	color: #f5af54;
+}
+
+header{
+	font-family: 'Open-Sans', sans-serif;
+	font-size: 40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	position: center;
+
+}
